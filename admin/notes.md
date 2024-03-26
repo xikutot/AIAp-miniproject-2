@@ -13,3 +13,4 @@ Umsetzung & Dokumentation
 - Conda mit Jupiter, Keras
 
 # Fragen:
+- Daten lokal ablegen (oder dynamisch herunterladen)?
