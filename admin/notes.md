@@ -14,9 +14,11 @@ Umsetzung & Dokumentation
 
 # Fragen:
 - Daten lokal ablegen (oder dynamisch herunterladen)?
-    - Lokal ablegen (2024-03-24)
+    - Lokal ablegen (2024-03-26)
 - AHE dataset ok?
-    - Ja (2024-03-24)
+    - Ja (2024-03-26)
+- Skalierung auf 64 / 32 zwingend?
+    - Nein, optional (2024-03-26)
 - Zitierung korrekt?
 - Sklearn wird im Auftrag verwendet. Können wir das auch verwenden oder nur Keras?
 - Müssen die Rohdaten deterministisch auf training, valdidation, test aufgeteilt werden?
