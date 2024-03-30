@@ -6,3 +6,6 @@ conda install -c conda-forge numpy -y
 conda install -c conda-forge pandas -y
 conda install -c conda-forge matplotlib -y
 conda install -c conda-forge scikit-learn -y
+
+echo "Press ENTER to continue..."
+read -r
