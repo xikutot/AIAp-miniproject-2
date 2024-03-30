@@ -9,7 +9,7 @@ Umsetzung & Dokumentation
 
 # Tooling:
 - Gitlab
-- Pycharm
+- Pycharm oder VS Code
 - Conda mit Jupiter, Keras
 
 # Fragen:
