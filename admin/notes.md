@@ -22,3 +22,4 @@ Umsetzung & Dokumentation
 - Zitierung korrekt?
 - Sklearn wird im Auftrag verwendet. Können wir das auch verwenden oder nur Keras?
 - Müssen die Rohdaten deterministisch auf training, valdidation, test aufgeteilt werden?
+- Es braucht kein Abstract oder Einführung, korrekt?
