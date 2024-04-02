@@ -20,9 +20,15 @@ Umsetzung & Dokumentation
 - Skalierung auf 64 / 32 zwingend?
     - Nein, optional (2024-03-26)
 - Zitierung korrekt?
+    - Ja, beide Varianten korrekt.
 - Sklearn wird im Auftrag verwendet. Können wir das auch verwenden oder nur Keras?
+    - Sklearn ist in Python enthalten. Alles Python ist erlaubt.
 - Müssen die Rohdaten deterministisch auf training, valdidation, test aufgeteilt werden?
+    - Nicht zwingend.
 - Es braucht kein Abstract oder Einführung, korrekt?
+    - Möglich, aber nicht nötig. Maximal etwa 3 Zeilen.
+- Wo sollen die Daten skaliert / normalisiert werden?
+    - In Teil d)
 
 # TODO:
 - Teil b) citation variante auswählen
