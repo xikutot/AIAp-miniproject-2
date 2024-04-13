@@ -29,6 +29,8 @@ Umsetzung & Dokumentation
     - Möglich, aber nicht nötig. Maximal etwa 3 Zeilen.
 - Wo sollen die Daten skaliert / normalisiert werden?
     - In Teil d)
+- Welches Model wird verwendiet im Kapitel "Quantification of the model performance"? Nur das optimierte?
+- Ist unser Beweis von underfitting / overfitting gut?
+
 
 # TODO:
-- Teil b) citation variante auswählen
