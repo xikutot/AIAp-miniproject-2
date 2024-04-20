@@ -36,6 +36,7 @@ Umsetzung & Dokumentation
 - Confusion Matrix wird auf welche Daten angewandt? Validation?
     - Die Validation Daten (2024-04-16)
 - Wie sollen wir die Werte quantifizieren? Jede neue Durchführung des Notebooks hat leicht andere Werte.
+- Was ist mit dem optionalen "Use CV to compare/select hyper-parameters (for example, find an optimal lambda)" gemeint?
 
 
 # TODO:
