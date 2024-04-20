@@ -32,10 +32,10 @@ Umsetzung & Dokumentation
 - Welches Model wird verwendiet im Kapitel "Quantification of the model performance"? Nur das optimierte?
     - Nur das optimierte (2024-04-16)
 - Ist unser Beweis von underfitting / overfitting gut?
-    - Ein ausreichender Beweis von underfitting / overfitting kann nur mithilfe der 3 Architekturen geführt werden. Beim Underfitting sollen Training- und Validation-Loss nahe zusammen bleiben aber höher als beim optimierten Modell (Arch 3) und tiefer als beim Overfitting (Arch 2). Beim Overfitting soll Training- und Validation-Loss divergieren (Validation-Loss explodiert) und also höher sein als die anderen Modelle. (2024-04-16)
+    - Ein ausreichender Beweis von underfitting / overfitting kann mithilfe der 3 Architekturen geführt werden. Beim Underfitting sollen Training- und Validation-Loss nahe zusammen bleiben aber höher als beim optimierten Modell (Arch 3) und tiefer als beim Overfitting (Arch 2). Beim Overfitting soll Training- und Validation-Loss divergieren (Validation-Loss explodiert) und also höher sein als die anderen Modelle. (2024-04-16)
 - Confusion Matrix wird auf welche Daten angewandt? Validation?
     - Die Validation Daten (2024-04-16)
--
+- Wie sollen wir die Werte quantifizieren? Jede neue Durchführung des Notebooks hat leicht andere Werte.
 
 
 # TODO:
