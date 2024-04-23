@@ -36,9 +36,19 @@ Umsetzung & Dokumentation
 - Confusion Matrix wird auf welche Daten angewandt? Validation?
     - Die Validation Daten (2024-04-16)
 - Wie sollen wir die Werte quantifizieren? Jede neue Durchführung des Notebooks hat leicht andere Werte.
+    - Werte aus letztem Durchgang übernehmen (2024-04-23)
 - Was ist mit dem optionalen "Use CV to compare/select hyper-parameters (for example, find an optimal lambda)" gemeint?
+    - Crossvalidation könnte über ein Grid von Hyperparametern durchgeführt werden, um systematisch optimale Parameter zu finden. Das ist allerding optional und gibt keine extra Punkte. (2024-04-23)
 - Was ist in den Diskussionsteilen gesucht?
+    - Fokus auf die Resultate und Interpretation (sparsame Wiederholung von bereits gezeigten Inhalten (e.g. model summary)) (2024-04-23)
 - Sollen wir eingie falsche Predictions anzeigen? Wo?
+    - In der Evaluation. Dort sollen auch die anderen auswertungen nochmals angezeigt werden (metrics, Vergleich mit Werten (mit deren Standardabweichung) der CV) (2024-04-23)
 
 
 # TODO:
+- Make underfitting converge
+- Model discussions
+- Final accuracy in evolution plots
+- Evaluation with: confusion matrix, metrics and comparison to CV, examples (random, worst offenders), short discussion
+- Final discussion (including combined evolution plots)
+
