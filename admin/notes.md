@@ -60,7 +60,8 @@ Umsetzung & Dokumentation
 ## Bemerkungen
 - Dense layers, die nicht Output layer sind, brauchen eine Activation function.
 - Kurven Vergleich könnte noch klarer dargestellt werden. ZB. mit Linienstruktur anstatt Farbhelligkeit.
+- Immer Zahlen zu qualitativen Betrachtungen.
 
 
 # TODO:
-
+- Zahlen zu qualitativen Betrachtungen
