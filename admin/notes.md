@@ -44,11 +44,28 @@ Umsetzung & Dokumentation
 - Sollen wir eingie falsche Predictions anzeigen? Wo?
     - In der Evaluation. Dort sollen auch die anderen auswertungen nochmals angezeigt werden (metrics, Vergleich mit Werten (mit deren Standardabweichung) der CV) (2024-04-23)
 
+# Meeting 2024-04-30
+## Fragen
+- Ist unsere Erklärung für Overfitting/Underfitting korrekt?
+    - Ja
+- Ist die Menge an Code nicht zuviel?
+    - Nein, das ist ok. Der Code ist auch nicht unordentlich.
+- Wir vergleichen zwischen den Modellen. Fehlt noch etwas?
+    - Ja man könnte noch auf die recht guten Resultate des wenig komplexen Modells im vergleich mit den komplexeren Modellen.
+- Wir sollen "den Code diskutieren". Was ist damit gemeint?
+    - Es ist damit nur gemeint, dass die Datei sauber gegliedert sein soll (Titel, etc). Der Python Code selber wird nicht angeschaut.
+- Wir haben keine Regularisierung in den Dense Layers. Was sollen wir tun?
+    - Das ist ein Fehler. Die Dense Layers müssen kernel_regularization haben.
+- Warum brauchen wir cache() um die Test-Daten  zu verwenden?
+    - Weiss ich auch nicht.
+
+## Bemerkungen
+- Dense layers, die nicht Output layer sind, brauchen eine Activation function.
+- Kurven Vergleich könnte noch klarer dargestellt werden. ZB. mit Linienstruktur anstatt Farbhelligkeit.
+- Immer Zahlen zu qualitativen Betrachtungen.
+
 
 # TODO:
-- Make underfitting converge
-- Model discussions
-- Final accuracy in evolution plots
-- Evaluation with: confusion matrix, metrics and comparison to CV, examples (random, worst offenders), short discussion
-- Final discussion (including combined evolution plots)
-
+- Modelle anpassen
+- Zahlen zu qualitativen Betrachtungen
+- Modell Komplexität vergleichen
