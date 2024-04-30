@@ -50,6 +50,8 @@ Umsetzung & Dokumentation
     - Ja
 - Ist die Menge an Code nicht zuviel?
     - Nein, das ist ok. Der Code ist auch nicht unordentlich.
+- Wir vergleichen zwischen den Modellen. Fehlt noch etwas?
+    - Ja man könnte noch auf die recht guten Resultate des wenig komplexen Modells im vergleich mit den komplexeren Modellen.
 - Wir sollen "den Code diskutieren". Was ist damit gemeint?
     - Es ist damit nur gemeint, dass die Datei sauber gegliedert sein soll (Titel, etc). Der Python Code selber wird nicht angeschaut.
 - Wir haben keine Regularisierung in den Dense Layers. Was sollen wir tun?
@@ -64,4 +66,6 @@ Umsetzung & Dokumentation
 
 
 # TODO:
+- Modelle anpassen
 - Zahlen zu qualitativen Betrachtungen
+- Modell Komplexität vergleichen
