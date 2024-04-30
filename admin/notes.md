@@ -69,3 +69,6 @@ Umsetzung & Dokumentation
 - Modelle anpassen
 - Zahlen zu qualitativen Betrachtungen
 - Modell Komplexität vergleichen
+- Arch 2 Model Titel reformatieren
+- Shorten code line length in:
+    - Arch 2 optimized
